@@ -1,40 +1,45 @@
-# AirPods Switch — Downloads
+# Homing — Downloads
 
-Signed and notarized `.pkg` installers for **AirPods Switch**, a small
-macOS menu-bar app that reconnects your AirPods over Bluetooth with a
-single click or a global keyboard shortcut.
+Signed and notarized `.pkg` installers for **Homing**, a small macOS menu-bar
+app that brings your AirPods back to your Mac over Bluetooth with a single
+click or a global keyboard shortcut.
 
-This repository contains **only release downloads** — no source code.
+This repository contains **only release downloads** — no source code. The
+source lives at [feichti01/homing](https://github.com/feichti01/homing).
+
+> Releases up to `v1.0` were published under the app's former name,
+> *AirPods Switch*. Homing replaces it; install the new package and remove the
+> old app from `/Applications`.
 
 ## Download
 
 Grab the latest `.pkg` from the [Releases page](../../releases/latest).
 
-## Funktionen
+## Features
 
-- **Geräteliste in der Menüleiste** — zeigt alle gekoppelten AirPods/Beats
-  sowie weitere Bluetooth-Audiogeräte auf einen Blick.
-- **Klick zum Verbinden/Trennen** — ein Klick auf ein Gerät verbindet es
-  oder trennt es wieder. Kein Suchen mehr im Bluetooth-Menü.
-- **Bevorzugtes Gerät** — ein Gerät lässt sich als "bevorzugt" markieren
-  (Stern); es ist das Ziel des globalen Tastenkürzels.
-- **Globaler Tastenkürzel** (Standard **⌃⌥A**) — verbindet/trennt das
-  bevorzugte Gerät von überall aus, auch ohne das Menü zu öffnen.
-- **Automatisches Audio-Umschalten** — schaltet die System-Audioausgabe
-  nach dem Verbinden automatisch auf das Gerät um.
-- **Start bei Login** (optional) — die App kann sich beim Anmelden
-  automatisch starten.
-- **Läuft im Hintergrund** — kein Dock-Icon, minimaler Ressourcenbedarf.
+- **Device list in the menu bar** — all paired AirPods and Beats as well as
+  other Bluetooth audio devices at a glance.
+- **Click to connect or disconnect** — one click connects a device or
+  disconnects it again. No more digging through the Bluetooth menu.
+- **Preferred device** — mark one device as preferred (star); it is the target
+  of the global shortcut.
+- **Global shortcut** (default **⌃⌥A**) — connects or disconnects the preferred
+  device from anywhere, without opening the menu.
+- **Automatic audio routing** — switches the system audio output to the device
+  after it connects.
+- **Launch at login** (optional) — the app can start when you log in.
+- **Runs in the background** — no Dock icon, minimal footprint, App Sandbox
+  with the Bluetooth entitlement only.
 
-Ideal, wenn deine AirPods auf **"Zuletzt mit diesem MacBook verbunden"**
-stehen: ein Klick, und sie verbinden sich wieder mit deinem Mac.
+Ideal when your AirPods are set to **"Last connected to this Mac"**: one click
+and they find their way home.
 
 ## Install
 
 1. Download the `.pkg`.
-2. Double-click it and follow the installer.
-3. Since the package is notarized by Apple, macOS Gatekeeper will not
-   show a warning.
+2. Double-click it and follow the installer. The app launches afterwards.
+3. Since the package is notarized by Apple, macOS Gatekeeper will not show a
+   warning.
 
 ## Requirements
 
@@ -42,5 +47,5 @@ stehen: ein Klick, und sie verbinden sich wieder mit deinem Mac.
 
 ## Uninstall
 
-Move `AirPods Switch.app` from `/Applications` to the Trash. If you
-enabled "Launch at login", turn that off in the app's menu first.
+Move `Homing.app` from `/Applications` to the Trash. If you enabled "Launch at
+Login", turn that off in the app's menu first.
