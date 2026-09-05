@@ -36,7 +36,7 @@ already paired with your Mac and connects or disconnects them.
   never leaves your Mac. The app does not scan for, pair with or connect to
   unknown devices.
 - **Settings stored on your Mac.** The app remembers four things in its own
-  sandbox container (`~/Library/Containers/at.feichti.homing`): the Bluetooth
+  sandbox container (`~/Library/Containers/at.feichtinger.homing`): the Bluetooth
   address of the device you marked as preferred, your keyboard shortcut,
   whether audio output should switch automatically, and whether the first-run
   Bluetooth prompt was shown. These values stay on your Mac. Deleting the app
