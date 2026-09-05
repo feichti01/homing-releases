@@ -11,9 +11,7 @@ permalink: /legal/
 Homing and this repository are published by:
 
 Christian Feichtinger
-Minna-Meinhardt-Straße 2
-4600 Wels, Upper Austria
-Austria
+Wels, Upper Austria, Austria
 E-mail: christian@feichti.at
 
 Purpose: free, non-commercial distribution of the open-source macOS utility
