@@ -1,3 +1,9 @@
+---
+title: Support
+layout: default
+permalink: /support/
+---
+
 # Support — Homing
 
 Homing is a free, open-source macOS menu-bar app maintained by one person.
@@ -11,7 +17,7 @@ seven days.
    System Settings > Bluetooth. Homing only shows paired devices.
 3. Check System Settings > Privacy & Security > Bluetooth: the switch for
    "Homing" must be on. Relaunch the app after changing it.
-4. Make sure you run the [latest release](../../releases/latest). Only the
+4. Make sure you run the [latest release](https://github.com/feichti01/homing-releases/releases/latest). Only the
    latest version receives fixes.
 
 ## Frequently asked questions
@@ -44,8 +50,8 @@ Remove the old "AirPods Switch.app" from /Applications.
 
 | Topic | Channel |
 | --- | --- |
-| Bug, unexpected behaviour | [Open an issue](../../issues/new) in this repository |
-| Feature idea | [Open an issue](../../issues/new) and label it "enhancement" |
+| Bug, unexpected behaviour | [Open an issue](https://github.com/feichti01/homing-releases/issues/new) in this repository |
+| Feature idea | [Open an issue](https://github.com/feichti01/homing-releases/issues/new) and label it "enhancement" |
 | Question in private, or anything involving personal data | E-mail christian@feichti.at |
 | Security vulnerability | E-mail christian@feichti.at with the subject `homing security`. Please do not post it publicly. |
 
@@ -59,4 +65,4 @@ Remove the old "AirPods Switch.app" from /Applications.
   Console.app filtered for `Homing`.
 
 Never include passwords, certificates or other people's device addresses. See
-[PRIVACY.md](PRIVACY.md) for how support requests are handled.
+[PRIVACY.md](../privacy/) for how support requests are handled.

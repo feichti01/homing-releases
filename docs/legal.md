@@ -1,3 +1,9 @@
+---
+title: Legal Notice
+layout: default
+permalink: /legal/
+---
+
 # Legal Notice — Homing
 
 ## Disclosure (§ 25 Mediengesetz, § 5 E-Commerce-Gesetz)
@@ -27,7 +33,7 @@ source code.
 
 ## Privacy
 
-Homing collects no data. See [PRIVACY.md](PRIVACY.md) for the full privacy
+Homing collects no data. See [PRIVACY.md](../privacy/) for the full privacy
 policy, including the information required by Art. 13 GDPR.
 
 ## Trademarks

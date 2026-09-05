@@ -52,6 +52,9 @@ Login", turn that off in the app's menu first.
 
 ## Privacy, support and legal
 
-- [Privacy Policy](PRIVACY.md) — the app collects no data; full GDPR notice.
-- [Support](SUPPORT.md) — FAQ, how to report a problem, what to include.
-- [Legal Notice](LEGAL.md) — disclosure under Austrian law, licence, trademarks.
+Published at https://feichti01.github.io/homing-releases/ (source in `docs/`):
+
+- [Privacy Policy](https://feichti01.github.io/homing-releases/privacy/) — the app collects no data; full GDPR notice.
+- [Privacy Choices](https://feichti01.github.io/homing-releases/privacy-choices/) — what you can control on your Mac.
+- [Support](https://feichti01.github.io/homing-releases/support/) — FAQ, how to report a problem, what to include.
+- [Legal Notice](https://feichti01.github.io/homing-releases/legal/) — disclosure under Austrian law, licence, trademarks.

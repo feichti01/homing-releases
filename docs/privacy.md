@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+layout: default
+permalink: /privacy/
+---
+
 # Privacy Policy — Homing
 
 **Version 1.0, 5 September 2026**
@@ -68,7 +74,11 @@ Privacy Framework, which the European Commission recognises as providing
 adequate protection (Art. 45 GDPR). We do not transfer data to third
 countries ourselves.
 
-## 4. Your rights
+## 4. Your choices
+
+There is nothing to opt in or out of, because the app collects no data. What you can control yourself (Bluetooth permission, launch at login, stored settings) is listed on the [Privacy Choices](../privacy-choices/) page.
+
+## 5. Your rights
 
 Under Articles 15 to 22 GDPR you have the right to access, rectification,
 erasure, restriction of processing, data portability and to object. Because the
@@ -82,12 +92,12 @@ You can lodge a complaint with the Austrian supervisory authority:
 Barichgasse 40-42, 1030 Wien
 Telephone +43 1 52 152-0, dsb@dsb.gv.at, https://www.dsb.gv.at
 
-## 5. Children
+## 6. Children
 
 Homing is a general-purpose utility and does not address children in particular.
 It collects no data from anyone, regardless of age.
 
-## 6. Changes to this policy
+## 7. Changes to this policy
 
 We update this document when the app's behaviour changes. The version number
 and date at the top identify the current text; the revision history is public
