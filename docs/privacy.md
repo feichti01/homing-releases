@@ -16,7 +16,8 @@ Datenschutzgesetz, DSG) and Apple's App Store requirements.
 
 ## 1. Controller
 
-Christian Feichtinger, Austria
+Christian Feichtinger
+Minna-Meinhardt-Straße 2, 4600 Wels, Austria
 E-mail: christian@feichti.at
 
 Homing is a free, open-source, non-commercial utility maintained by a private

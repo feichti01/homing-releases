@@ -11,7 +11,8 @@ permalink: /legal/
 Homing and this repository are published by:
 
 Christian Feichtinger
-<!-- § 25 MedienG: add the place of residence (Wohnort) on the next line. -->
+Minna-Meinhardt-Straße 2
+4600 Wels, Upper Austria
 Austria
 E-mail: christian@feichti.at
 
