@@ -49,3 +49,9 @@ and they find their way home.
 
 Move `Homing.app` from `/Applications` to the Trash. If you enabled "Launch at
 Login", turn that off in the app's menu first.
+
+## Privacy, support and legal
+
+- [Privacy Policy](PRIVACY.md) — the app collects no data; full GDPR notice.
+- [Support](SUPPORT.md) — FAQ, how to report a problem, what to include.
+- [Legal Notice](LEGAL.md) — disclosure under Austrian law, licence, trademarks.
