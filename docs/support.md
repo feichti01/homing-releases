@@ -22,6 +22,15 @@ seven days.
 
 ## Frequently asked questions
 
+**Why do my AirPods keep ending up on the wrong device?**
+AirPods follow whichever Apple device last played audio. macOS lets you turn
+that off per Mac: System Settings > Bluetooth > ⓘ next to your AirPods >
+"Connect to This Mac" > "When Last Connected to This Mac". Many people choose
+this so the AirPods stop jumping to the Mac during the day. The price is that
+bringing them back to the Mac becomes a manual trip through the Bluetooth menu.
+Homing is that trip, reduced to one click or one keystroke. It works with
+"Automatically" too, for the moments when the automatic switch does not happen.
+
 **The menu says "No paired AirPods found".**
 The device has never been paired with this Mac, or Bluetooth access is off.
 Pair it once through System Settings > Bluetooth, then click the Homing icon
