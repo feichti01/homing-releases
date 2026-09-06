@@ -33,6 +33,13 @@ with the lid closed, they are connected to an iPhone that is actively using
 them, or they are out of range. Open the lid or put them in your ears and try
 again.
 
+**Microsoft Teams keeps using the MacBook speakers and microphone.**
+Homing sets the Mac's default output and microphone to the headphones when
+they connect. Zoom (with "Same as System"), FaceTime and calls in the browser
+follow immediately. Teams remembers the device you last picked in Teams
+itself: choose the headphones once under Teams > Settings > Devices, and from
+then on Teams switches to them automatically whenever Homing connects them.
+
 **The keyboard shortcut does nothing.**
 Another app or macOS already uses the combination. Choose **Change Shortcut…**
 in the menu; the recorder reports conflicts and lets you pick another one.
